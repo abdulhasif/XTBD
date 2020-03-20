@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819704934964",
+    "firebase_url": "https://xtbd-cdd0e.firebaseio.com",
+    "project_id": "xtbd-cdd0e",
+    "storage_bucket": "xtbd-cdd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819704934964:android:a0a139115b2f3e338e1061",
+        "android_client_info": {
+          "package_name": "com.example.xtbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819704934964-pi9et6a25er4tpe8015riq2dutfcl20m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xtbd",
+            "certificate_hash": "d66f6ddb3a0a063e62d07bd07babae3bf888caf9"
+          }
+        },
+        {
+          "client_id": "819704934964-4uvqt3qnbv65slbld3o90qv4nsqrfp2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsA5MLEofRP8uzysAVPbHjJY4imeiE80w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819704934964-4uvqt3qnbv65slbld3o90qv4nsqrfp2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
