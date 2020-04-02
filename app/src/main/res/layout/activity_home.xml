@@ -12,7 +12,8 @@
         android:background="#193319"
         app:navigationIcon="@drawable/back"
         app:title="Home"
-        app:titleTextColor="#FFFFFF"/>
+        app:titleTextColor="#FFFFFF"
+        android:onClick="exit"/>
    <ScrollView
        android:layout_width="match_parent"
        android:layout_height="match_parent"
